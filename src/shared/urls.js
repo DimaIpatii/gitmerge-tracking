@@ -1,3 +1,4 @@
-const HOME_URL = "https://home.com";
-const GALLERY_URL = "https://gallery.com";
-const FORM_URL = "https://form.com";
+const HOME_URL = "https://STG-home.com";
+const GALLERY_URL = "https://STG-gallery.com";
+const FORM_URL = "https://STG-form.com";
+const SHOP_URL = "https://STG-shop.com";
