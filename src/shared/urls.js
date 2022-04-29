@@ -1,1 +1,1 @@
-const HOME_URL = "https://STG-home.it";
+const HOME_URL = "https://STG-home.io";
